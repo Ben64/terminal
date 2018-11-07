@@ -8,7 +8,7 @@ import random
 import time
 import signal
 import tty
-import termios
+#import termios
 import click
 selected = 0
 selectedmenu = 0
